@@ -7,7 +7,7 @@ Hosted Link- https://crater-gs97.onrender.com/
 
 Topic-Image based Search of Lunar craters from global mosaic
 
-Video link-https://drive.google.com/file/d/1zJABJc5nW8rLvPen9Jts50aosKWgdmNl/view?usp=sharing
+Video link-https://youtu.be/Eah-2omWpnI?si=eDfDL7JhBOs11cR0
 
 Main Components of the Project-
 
