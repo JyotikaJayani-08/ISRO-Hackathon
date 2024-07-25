@@ -5,6 +5,8 @@ Team Cosmo Coders
 
 Topic-Image based Search of Lunar craters from global mosaic
 
+Video link-https://drive.google.com/file/d/1zJABJc5nW8rLvPen9Jts50aosKWgdmNl/view?usp=sharing
+
 Main Components of the Project-
 
 1.A fine-tuned YOLOv4 model for lunar crater detection
