@@ -20,7 +20,9 @@ Main Components of the Project-
 
   Steps and Key Insights-
   
-  1.Dataset Preparation
+  1.Dataset Preparation-
+  We collected high-resolution images from various lunar missions, including NASA's Lunar Reconnaissance Orbiter (LRO) and the Indian Space Research Organisation's 
+  Chandrayaan missions. The dataset comprised 10,000 images, each with a resolution of 1024x1024 pixels.
 
   2.Data Augmentation
 
