@@ -17,6 +17,7 @@ Main Components of the Project-
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/70bbe488-0f35-4f90-bd06-3d030d9c08a6">
 
   Steps and Key Insights-
+  
   1.Dataset Preparation
 
   2.Data Augmentation
@@ -26,7 +27,9 @@ Main Components of the Project-
   4.Training Process
 
   5.Training statistics
-  Total training time: 72 hours
+  Total training time-
+  
+  72 hours
   
   Final mAP (mean Average Precision) @ IoU 0.5: 0.92
   
