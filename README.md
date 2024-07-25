@@ -25,10 +25,13 @@ Main Components of the Project-
 
   4.Training Process
 
-  5.Training statistics:
+  5.Training statistics
   Total training time: 72 hours
+  
   Final mAP (mean Average Precision) @ IoU 0.5: 0.92
+  
   Final mAP @ IoU 0.5:0.95: 0.78
+  
   Inference speed: 30 FPS on a single NVIDIA RTX 3080 GPU
 
  6.Post-processing
